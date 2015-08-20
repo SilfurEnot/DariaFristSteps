@@ -17,6 +17,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+Library/
+Temp/
+obj/
+
 # =========================
 # Operating System Files
 # =========================
@@ -41,3 +45,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+Library/AssetServerCacheV3
